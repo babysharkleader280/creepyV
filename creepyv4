@@ -40,7 +40,7 @@ Esp.Parent = Main
 Esp.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 Esp.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Esp.BorderSizePixel = 10
-Esp.Position = UDim2.new(0.029940119, 0, 0.196335092, 0)
+Esp.Position = UDim2.new(0.029940119, 0, 0.455497384, 0)
 Esp.Size = UDim2.new(0, 200, 0, 49)
 Esp.Font = Enum.Font.SourceSans
 Esp.Text = "disable lock"
@@ -132,3 +132,8 @@ local function TYOY_fake_script() -- shits
 	end)
 end
 coroutine.wrap(TYOY_fake_script)() -- ye
+
+
+
+
+
