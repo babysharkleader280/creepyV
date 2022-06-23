@@ -52,7 +52,7 @@ Esp.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/dislock/main/.gitignore"))()
 end)
 
-Silentaim.Name = "Silent aim turn on "
+Silentaim.Name = "fly "
 Silentaim.Parent = Main
 Silentaim.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 Silentaim.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -60,17 +60,17 @@ Silentaim.BorderSizePixel = 10
 Silentaim.Position = UDim2.new(0.53692615, 0, 0.196335077, 0)
 Silentaim.Size = UDim2.new(0, 200, 0, 50)
 Silentaim.Font = Enum.Font.SourceSans
-Silentaim.Text = "Silent aim turn on"
+Silentaim.Text = "Fly click x"
 Silentaim.TextColor3 = Color3.fromRGB(255, 255, 255)
 Silentaim.TextScaled = true
 Silentaim.TextSize = 14.000
 Silentaim.TextWrapped = true
 Silentaim.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/disa/main/.gitignore"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/creepyaimgui/main/fly"))()
 	local NotificationBindable = Instance.new("BindableFunction")
 end)
 
-Triggerbot.Name = "dot"
+Triggerbot.Name = "fist only"
 Triggerbot.Parent = Main
 Triggerbot.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 Triggerbot.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -78,13 +78,13 @@ Triggerbot.BorderSizePixel = 10
 Triggerbot.Position = UDim2.new(0.53692615, 0, 0.455497384, 0)
 Triggerbot.Size = UDim2.new(0, 200, 0, 50)
 Triggerbot.Font = Enum.Font.SourceSans
-Triggerbot.Text = "dotted lock "
+Triggerbot.Text = "fist reach "
 Triggerbot.TextColor3 = Color3.fromRGB(255, 255, 255)
 Triggerbot.TextScaled = true
 Triggerbot.TextSize = 14.000
 Triggerbot.TextWrapped = true
 Triggerbot.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/creepyaimgui/main/creepy%20DOT"))() -- Not even working
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/creepyaimgui/main/fly"))() -- Not even working
 end)
 
 LabelLOl.Name = "Label LOl"
@@ -94,7 +94,7 @@ LabelLOl.BorderSizePixel = 0
 LabelLOl.Position = UDim2.new(0.029940119, 0, 0.664921463, 0)
 LabelLOl.Size = UDim2.new(0, 470, 0, 112)
 LabelLOl.Font = Enum.Font.SourceSans
-LabelLOl.Text = "man i just like to use v to close and to open click ," -- shit
+LabelLOl.Text = "extra menu ," -- shit
 LabelLOl.TextColor3 = Color3.fromRGB(255, 255, 255)
 LabelLOl.TextScaled = true
 LabelLOl.TextSize = 14.000
