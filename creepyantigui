@@ -32,7 +32,7 @@ Aimlock.TextScaled = true
 Aimlock.TextSize = 14.000
 Aimlock.TextWrapped = true
 Aimlock.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/creepyV/main/creepyv4"))() -- power
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/creepyV/main/extra%20menu"))() -- power
 end)
 
 Esp.Name = "anti stomp"
@@ -70,7 +70,7 @@ Silentaim.MouseButton1Down:connect(function()
 	local NotificationBindable = Instance.new("BindableFunction")
 end)
 
-Triggerbot.Name = "dot"
+Triggerbot.Name = "locks"
 Triggerbot.Parent = Main
 Triggerbot.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 Triggerbot.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -78,13 +78,13 @@ Triggerbot.BorderSizePixel = 10
 Triggerbot.Position = UDim2.new(0.53692615, 0, 0.455497384, 0)
 Triggerbot.Size = UDim2.new(0, 200, 0, 50)
 Triggerbot.Font = Enum.Font.SourceSans
-Triggerbot.Text = "dotted lock "
+Triggerbot.Text = "LOCK CHANNEL "
 Triggerbot.TextColor3 = Color3.fromRGB(255, 255, 255)
 Triggerbot.TextScaled = true
 Triggerbot.TextSize = 14.000
 Triggerbot.TextWrapped = true
 Triggerbot.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/creepyaimgui/main/creepy%20DOT"))() -- Not even working
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/creepyaimgui/main/lock%20channel"))() -- Not even working
 end)
 
 LabelLOl.Name = "Label LOl"
@@ -105,7 +105,7 @@ Maintittle.Parent = Main
 Maintittle.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
 Maintittle.Size = UDim2.new(0, 501, 0, 50)
 Maintittle.Font = Enum.Font.SourceSans
-Maintittle.Text = "CREEPY V4"
+Maintittle.Text = "ferito"
 Maintittle.TextColor3 = Color3.fromRGB(255, 255, 255)
 Maintittle.TextScaled = true
 Maintittle.TextSize = 14.000
