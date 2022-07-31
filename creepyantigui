@@ -52,7 +52,7 @@ Esp.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/babysharkleader280/creepyaimgui/main/creepy%20anti"))()
 end)
 
-Silentaim.Name = "SOON "
+Silentaim.Name = "OP ANTI LOCK "
 Silentaim.Parent = Main
 Silentaim.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 Silentaim.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -66,7 +66,7 @@ Silentaim.TextScaled = true
 Silentaim.TextSize = 14.000
 Silentaim.TextWrapped = true
 Silentaim.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet(""))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/BABYSHARK1221/op-anti-lock/main/.gitignore"))()
 	local NotificationBindable = Instance.new("BindableFunction")
 end)
 
